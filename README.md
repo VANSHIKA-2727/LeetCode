@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
