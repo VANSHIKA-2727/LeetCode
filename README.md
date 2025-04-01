@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
