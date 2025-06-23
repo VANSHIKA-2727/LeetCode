@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3859-maximum-product-of-two-digits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0792-binary-search) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
 | [0816-design-hashset](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0816-design-hashset) |
 ## Linked List
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0792-binary-search) |
 ## Recursion
 |  |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Tree
 |  |
@@ -161,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
