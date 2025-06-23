@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Simulation
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0404-sum-of-left-leaves) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
