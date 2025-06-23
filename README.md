@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0050-powx-n) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3859-maximum-product-of-two-digits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0242-valid-anagram) |
+| [3859-maximum-product-of-two-digits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Tree
 |  |
 | ------- |
