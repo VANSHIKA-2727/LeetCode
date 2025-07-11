@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0816-design-hashset) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -193,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0724-find-pivot-index) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
