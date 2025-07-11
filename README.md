@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0242-valid-anagram) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sorting
 |  |
@@ -195,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
