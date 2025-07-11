@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0816-design-hashset) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
