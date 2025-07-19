@@ -1,20 +1,20 @@
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
-        for (int i = 0; i < nums.size(); i++) {
-            int index = abs(nums[i]) - 1;
-            if (nums[index] > 0) {
-                nums[index] = -nums[index];
+        int n = nums.size();
+        vector<int> v(n + 1, 0);  // Make size n+1 to use 1-based indexing
+
+        for (int i = 0; i < n; i++) {
+            v[nums[i]] = 1;  // Mark the number as present
+        }
+
+        vector<int> ans;  // To store missing numbers
+        for (int i = 1; i <= n; i++) {
+            if (v[i] == 0) {
+                ans.push_back(i);  // If not marked, it's missing
             }
         }
 
-        vector<int> result;
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] > 0) {
-                result.push_back(i + 1);
-            }
-        }
-
-        return result;
+        return ans;
     }
 };
