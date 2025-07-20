@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0118-pascals-triangle) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0561-array-partition) |
