@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0816-design-hashset](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0816-design-hashset) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0561-array-partition) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0389-find-the-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Brainteaser
 |  |
