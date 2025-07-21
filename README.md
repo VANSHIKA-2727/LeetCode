@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0292-nim-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0389-find-the-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
