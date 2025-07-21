@@ -1,7 +1,7 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        map<char ,int> m; 
+        unordered_map<char ,int> m; 
         int i=0, j=0 ;
         int n = s.size();
         int y = t.size();
