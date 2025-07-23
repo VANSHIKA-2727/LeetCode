@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0682-baseball-game) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -308,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0561-array-partition) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
