@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0292-nim-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2556-convert-the-temperature](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3859-maximum-product-of-two-digits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
