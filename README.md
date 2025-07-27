@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2556-convert-the-temperature](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3859-maximum-product-of-two-digits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
