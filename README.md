@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2556-convert-the-temperature](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2571-find-the-pivot-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## Greedy
 |  |
 | ------- |
