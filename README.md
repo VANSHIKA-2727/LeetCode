@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
