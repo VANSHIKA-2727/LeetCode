@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0792-binary-search) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0053-maximum-subarray) |
 ## Bit Manipulation
 |  |
