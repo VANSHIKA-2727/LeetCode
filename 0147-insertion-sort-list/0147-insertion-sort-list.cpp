@@ -15,9 +15,11 @@ public:
             for(ListNode*j=i->next ;j!=NULL;j=j->next ){
 
                 if(j->val<i->val){
-                    int x = i->val ;
-                    i->val =j->val ;
-                    j->val = x ;
+                    // int x = i->val ;
+                    // i->val =j->val ;
+                    // j->val = x ;
+
+                    swap(i->val , j->val );
                 }
             }
         }
