@@ -18,9 +18,10 @@ public:
             v.push_back(t->val);
             t=t->next ;
         }
+
         for (int i = 0; i + k <= v.size(); i += k) {
         reverse(v.begin() + i, v.begin() + i + k);
-}
+      }
 
 
             head = NULL ;
