@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0292-nim-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2481-strictly-palindromic-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1448-maximum-69-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
