@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0682-baseball-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Function
 |  |
