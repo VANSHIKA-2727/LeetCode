@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0050-powx-n) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0190-reverse-bits) |
