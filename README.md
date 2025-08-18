@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2058-concatenation-of-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0682-baseball-game) |
+| [2058-concatenation-of-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Function
