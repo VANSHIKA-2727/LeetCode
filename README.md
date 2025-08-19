@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
