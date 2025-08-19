@@ -8,8 +8,12 @@ public:
             return true; // 0 is a perfect square
         }
 
-        double squareRoot = sqrt(num);
-        return floor(squareRoot) == ceil(squareRoot);
+        // double squareRoot = sqrt(num);
+        // return floor(squareRoot) == ceil(squareRoot);
+
+        int root = sqrt(num);
+return root * root == num;
+
 
     }
 };
