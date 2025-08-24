@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1054-complement-of-base-10-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Brainteaser
 |  |
