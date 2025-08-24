@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Brainteaser
 |  |
 | ------- |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search Tree
 |  |
 | ------- |
