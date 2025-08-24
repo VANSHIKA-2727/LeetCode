@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1448-maximum-69-number) |
+| [1610-xor-operation-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-complement-of-base-10-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
