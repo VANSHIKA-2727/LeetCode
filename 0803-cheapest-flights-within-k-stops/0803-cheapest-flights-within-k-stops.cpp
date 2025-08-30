@@ -7,8 +7,8 @@ public:
 
         for(int i = 0; i <= kk; i++) {
             vector<int> temp = dist; // copy to avoid overwriting in same iteration
-            for(auto &f : flights) {
-                int u = f[0], v = f[1], w = f[2];
+            for(auto x : flights) {
+                int u = x[0], v = x[1], w = x[2];
                 if(dist[u] != INF && dist[u] + w < temp[v]) {
                     temp[v] = dist[u] + w;
                 }
