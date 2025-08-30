@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0518-coin-change-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0518-coin-change-ii) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Simulation
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -484,4 +488,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+## Graph
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
