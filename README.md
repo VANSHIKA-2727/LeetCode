@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0816-design-hashset) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
