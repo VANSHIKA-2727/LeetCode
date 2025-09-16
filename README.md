@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0518-coin-change-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Simulation
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1054-complement-of-base-10-integer) |
