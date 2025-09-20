@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0148-sort-list) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0948-sort-an-array) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0948-sort-an-array) |
 ## Monotonic Stack
