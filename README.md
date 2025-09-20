@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0518-coin-change-ii) |
 | [0561-array-partition](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0682-baseball-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0575-distribute-candies) |
 | [0816-design-hashset](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0816-design-hashset) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
