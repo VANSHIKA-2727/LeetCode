@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3859-maximum-product-of-two-digits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
 |  |
 | ------- |
