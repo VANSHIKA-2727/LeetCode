@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
