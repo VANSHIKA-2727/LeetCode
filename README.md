@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1833-find-the-highest-altitude](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1833-find-the-highest-altitude](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2571-find-the-pivot-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2571-find-the-pivot-integer) |
