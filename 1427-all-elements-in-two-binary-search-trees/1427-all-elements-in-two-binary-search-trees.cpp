@@ -31,9 +31,26 @@ public:
         ino(root1 , v1 );
         vector<int>v2 ;
         ino2(root2 , v2);
-        v1.insert(v1.end(), v2.begin(), v2.end());
-        sort(v1.begin(),v1.end());
+        int i=0,j=0;vector<int>v;
+        while(i<v1.size() && j<v2.size())
+        {
+            if(v1[i]<v2[j])
+            v.push_back(v1[i++]);
+            else
+            v.push_back(v2[j++]);
+        }
+        while(i<v1.size() )
+        {
+            
+            v.push_back(v1[i++]);
+           
+        }
+        while(j<v2.size())
+        {
+            v.push_back(v2[j++]);
+        }
 
-        return v1 ;
+
+        return v;
     }
 };
