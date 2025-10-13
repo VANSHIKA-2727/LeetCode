@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1448-maximum-69-number) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0518-coin-change-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
