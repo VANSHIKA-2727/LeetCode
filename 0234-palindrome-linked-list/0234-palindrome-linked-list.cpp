@@ -14,19 +14,16 @@ public:
         ListNode* t = head;
         vector<int> v;
 
-        // Store all node values in v
         while (t != NULL) {
             v.push_back(t->val);
             t = t->next;
         }
 
-        // Create a new vector v2 as reverse of v
         vector<int> v2;
         for (int i = v.size() - 1; i >= 0; i--) {
             v2.push_back(v[i]);
         }
 
-        // Compare both vectors
         if (v == v2)
             return true;
         return false;
