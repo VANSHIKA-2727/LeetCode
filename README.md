@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sorting
 |  |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Simulation
 |  |
 | ------- |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
 |  |
 | ------- |
