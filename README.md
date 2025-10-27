@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -646,8 +648,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Union Find
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
