@@ -1,6 +1,6 @@
 class Solution {
 public:
-int check (char c){
+int roman (char c){
     if(c=='I')return 1 ;
     if(c=='V')return 5 ;
     if(c=='X')return 10 ;
@@ -15,11 +15,11 @@ int check (char c){
 
         int ss =0 ;
         for (int i = 0 ;i<s.length();i++){
-            if(i< s.length()-1  && check (s[i])< check (s[i+1])){
-                ss= ss-check(s[i]);
+            if(i< s.length()-1  && roman (s[i])< roman (s[i+1])){
+                ss= ss-roman(s[i]);
             }
             else{
-                ss= ss+check(s[i]);
+                ss= ss+roman(s[i]);
             }
         }
         return ss ;
