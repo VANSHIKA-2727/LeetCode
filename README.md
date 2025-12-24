@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Tree
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VANSHIKA-2727/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
 |  |
