@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0840-magic-squares-in-grid](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1086-divisor-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0816-design-hashset) |
+| [0840-magic-squares-in-grid](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0867-transpose-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0948-sort-an-array) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0816-design-hashset) |
+| [0840-magic-squares-in-grid](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0048-rotate-image) |
+| [0840-magic-squares-in-grid](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0867-transpose-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
