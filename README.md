@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1598-crawler-log-folder](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0682-baseball-game) |
 | [0933-increasing-order-search-tree](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [1598-crawler-log-folder](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1598-crawler-log-folder) |
 ## String
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1598-crawler-log-folder](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1764-maximum-repeating-substring](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/2032-largest-odd-number-in-string) |
