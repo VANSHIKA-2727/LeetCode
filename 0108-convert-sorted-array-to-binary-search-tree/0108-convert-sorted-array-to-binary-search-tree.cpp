@@ -11,19 +11,21 @@
  */
 class Solution {
 public:
-
-TreeNode* arrange(vector<int>& nums,int beg,int end)
-    {
-         if(beg>end)return NULL;
-        int mid=(beg+end)/2;
-        TreeNode *root = new TreeNode(nums[mid]);
-        root->left  = arrange(nums,beg,mid-1);
-        root->right = arrange(nums,mid+1,end);
-        return root;
+TreeNode * arrange(vector<int>&v , int beg , int end ){
+    int mid ;
+    if(beg<=end){
+        mid=(beg+end)/2;
+        TreeNode *root= new TreeNode(v[mid]);
+        root->left = arrange(v , beg , mid-1);
+        root->right = arrange(v , mid+1, end);
+        return root ;
     }
-   
+    else return NULL;
+    
+
+}
     TreeNode* sortedArrayToBST(vector<int>& nums) {
-         TreeNode *x=arrange(nums,0,nums.size()-1);
-        return x;
+        TreeNode * x = arrange(nums , 0 , nums.size()-1);
+        return x ;
     }
 };
