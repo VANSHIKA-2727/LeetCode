@@ -1,23 +1,24 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        map<char,int>m1;
-        for(char c:ransomNote){
-            m1[c]++;
+        map<int,int>m1 ;
+        for(auto x:ransomNote){
+            m1[x]++;
         }
 
-        map<char,int>m2;
-        for(char c:magazine){
-            m2[c]++;
+        map<int,int>m2 ;
+        for(auto x:magazine){
+            m2[x]++;
         }
-        for(auto x:m1)
-        {
-            auto y=m2.find(x.first);
-            if(y!=m2.end() && x.second<=y->second)continue;
-            else return false;
+
+        for(auto x:m1){
+        auto y= m2.find(x.first);
+        if(y!= m2.end()&& x.second<=y->second)continue;
+        else {
+            return false ;
         }
-        return true;
-
-
+        }
+return true ;
+        
     }
 };
