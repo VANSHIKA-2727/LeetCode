@@ -2,8 +2,10 @@
 // public:
 //     int firstMissingPositive(vector<int>& nums) {
 //         int n = nums.size();
+//         if(n==1)return 2;
 //         vector<int>v;
 //         for(int i=0 ;i<n ;i++){
+    
 //         if(nums[i]<0)continue ;
 //         else{
 //             v.push_back(nums[i]);
@@ -15,6 +17,7 @@
 //         }
 //         int sum =0 ;
 //         for(auto x:v){
+//             if(x>n)return 1;
 //             sum=sum+x;
 //         }
 
