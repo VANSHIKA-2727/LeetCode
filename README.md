@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0268-missing-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VANSHIKA-2727/LeetCode/tree/master/0219-contains-duplicate-ii) |
