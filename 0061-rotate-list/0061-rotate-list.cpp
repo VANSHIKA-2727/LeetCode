@@ -2,7 +2,7 @@ class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
 
-        if (head == NULL) return NULL;   // ✅ fix: empty list
+        if (head == NULL) return NULL;   // minimal safety
 
         ListNode* l = NULL, *ptr, *last;
         vector<int> v;
@@ -13,15 +13,16 @@ public:
         }
 
         int n = v.size();
-        k = k % n;                       // ✅ fix: handle k > n
-        if (k == 0) return createList(v); // optional safety
+        k = k % n;                       // minimal fix
 
         vector<int> v1;
 
-        for (int i = n - k; i < n; i++) {   // ✅ fix: correct right rotation
+        // ✅ corrected starting index
+        for (int i = n - k; i < n; i++) {
             v1.push_back(v[i]);
         }
 
+        // ✅ corrected loop range
         for (int i = 0; i < n - k; i++) {
             v1.push_back(v[i]);
         }
@@ -37,22 +38,6 @@ public:
             }
         }
 
-        return l;
-    }
-
-private:
-    ListNode* createList(vector<int>& v) {
-        ListNode* l = NULL, *ptr, *last;
-        for (int x : v) {
-            ptr = new ListNode(x);
-            if (l == NULL) {
-                l = ptr;
-                last = ptr;
-            } else {
-                last->next = ptr;
-                last = ptr;
-            }
-        }
         return l;
     }
 };
